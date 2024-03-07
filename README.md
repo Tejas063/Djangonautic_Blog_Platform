@@ -1,1 +1,1 @@
-# Djangonautic_Blog_Platform
+A Blog application made using Django framework
